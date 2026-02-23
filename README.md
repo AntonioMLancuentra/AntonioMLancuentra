@@ -45,6 +45,10 @@
 
 ![Pandas Badge][pandas-badge] ![NumPy Badge][numpy-badge] ![Dask Badge][dask-badge] ![SciPy Badge][scipy-badge] ![Matplotlib Badge][matplotlib-badge] ![Seaborn Badge][seaborn-badge] ![Plotly Badge][plotly-badge] ![Jupyter Badge][jupyter-badge]
 
+#### Time Series Forecast
+
+![StatsModels Badge][statsmodels-badge] ![Deep Learning Badge][deep_learning-badge] ![Prophet Badge][prophet-badge] 
+
 #### Programming Languages & Package and Environment Manager
 
 ![Python Badge][python-badge] ![UV Badge][uv-badge] ![Anaconda Badge][anaconda-badge] ![SQL Badge][sql-badge] ![Fortran Badge][fortran-badge] ![VBA Badge][vba-badge] 
@@ -106,10 +110,14 @@
 [seaborn-badge]: https://img.shields.io/badge/Seaborn-003B57?style=plastic&logo=none
 [plotly-badge]: https://img.shields.io/badge/Plotly-7A76FF?style=plastic&logo=plotly&logoColor=white
 [jupyter-badge]: https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white
+<!-- Links - Time Series Forecast -->
+[statsmodels-badge]: https://img.shields.io/badge/StatsModels_Sarimax_Varmax-1F85DE?style=plastic&logoColor=black
+[deep_learning-badge]: https://img.shields.io/badge/DeepLearning_LSTM_CNN_ARLSTM-1F85DE?style=plastic&logoColor=black
+[prophet-badge]: https://img.shields.io/badge/Prophet-1F85DE?style=plastic&logoColor=black
 <!-- Links - Programming Languages & Package and Environment Manager -->
 [python-badge]: https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white
 [uv-badge]: https://img.shields.io/badge/UV-ffffff?style=plastic&logo=UV&labelColor=000000&logoColor=#DE5FE9
 [anaconda-badge]: https://img.shields.io/badge/Anaconda-ffffff?style=plastic&logo=Anaconda&labelColor=000000&logoColor=##44A833
-[sql-badge]: https://img.shields.io/badge/SQL-003B57?style=plastic&logo=sql&logoColor=white
+[sql-badge]: https://img.shields.io/badge/SQL-003B57?style=plastic&logoColor=white
 [fortran-badge]: https://img.shields.io/badge/Fortran-734F96?style=plastic&logo=fortran&logoColor=white
 [vba-badge]: https://img.shields.io/badge/VBA-ffffff?style=plastic&logo=vba&labelColor=ebfffd&logoColor=000000
